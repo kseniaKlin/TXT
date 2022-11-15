@@ -1,0 +1,7 @@
+skill_1 - json
+skill_2 - sql
+skill_3 - git_bush
+skill_4 - git_hub
+skill_5 - devtools
+skill_6 - js
+skill_7 - theory
