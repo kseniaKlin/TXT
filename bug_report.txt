@@ -1,0 +1,10 @@
+title - the notification is not displayed
+severity - major
+priority - high
+precondition - open website
+step_to_reproduce:
+      step_1 - log in to your personal account
+      step_2 - open the personal data tab
+actual result - the notification is not displayed
+expected result - the notification is displayed
+attachments - scrinshot
